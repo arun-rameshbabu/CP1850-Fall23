@@ -12,7 +12,7 @@ area = 3.14 * radius * radius
 print("I'm writing something {} {}".format(radius, area))
 "I'm writing something {} {}".format(radius, area)
 
-b=5
-h=10
+b=15
+h=5
 area_triangle = 0.5 * b * h
 print(f'Area of the triangle {area_triangle}')
